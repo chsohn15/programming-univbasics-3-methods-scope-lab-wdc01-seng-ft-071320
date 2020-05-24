@@ -8,3 +8,13 @@ def toadstool
   puts status
 end
 
+def link
+  quote = "It's Dangerous To Go Alone! Take This."
+  puts quote
+end
+
+def all phrases
+  mario
+  toadstool
+  link
+end
