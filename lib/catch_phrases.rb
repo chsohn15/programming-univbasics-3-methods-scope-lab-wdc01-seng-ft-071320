@@ -13,7 +13,7 @@ def link
   puts quote
 end
 
-def all phrases
+def all_phrases
   mario
   toadstool
   link
